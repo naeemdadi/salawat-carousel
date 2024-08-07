@@ -1,0 +1,14 @@
+{
+  "pledges": [
+    { "id": 1, "name": "Zahraa Elfarooqui", "count": 10000, "country": "United States", "flag": "us" },
+    { "id": 2, "name": "Muhammad Daraiseh", "count": 300, "country": "United States", "flag": "us" },
+    { "id": 3, "name": "Sarah Gowayed", "count": 500, "country": "United States", "flag": "us" },
+    { "id": 4, "name": "Fareesa Syeda", "count": 300, "country": "United States", "flag": "us" },
+    { "id": 5, "name": "Safeeka Ayoob", "count": 300, "country": "Canada", "flag": "ca" },
+    { "id": 6, "name": "Zahraa Elfarooqui", "count": 10000, "country": "United States", "flag": "us" },
+    { "id": 7, "name": "Muhammad Daraiseh", "count": 300, "country": "United States", "flag": "us" },
+    { "id": 8, "name": "Sarah Gowayed", "count": 500, "country": "United States", "flag": "us" },
+    { "id": 9, "name": "Fareesa Syeda", "count": 300, "country": "United States", "flag": "us" },
+    { "id": 10, "name": "Safeeka Ayoob", "count": 300, "country": "Canada", "flag": "ca" }
+  ]
+}

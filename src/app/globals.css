@@ -20,16 +20,16 @@ B (255 */
 
 @layer base {
   :root {
-    --background: 216 100% 98.04%;
+    --background: 44 53% 92%;
     --foreground: 213.6 100% 4.9%;
 
-    --primary: 214.12 100% 50%;
+    --primary: 45 100% 52%;
     --primary-foreground: 0 0% 100%;
 
     --card: 216 100% 98.04%;
     --card-foreground: 213.6 100% 4.9%;
 
-    --popover: 0 0% 100%;
+    --popover: 46 100% 65%;
     --popover-foreground: 213.6 100% 4.9%;
 
     --secondary: 214.74 100% 92.55%;
